@@ -1,0 +1,14 @@
+.imgitem{
+    width:100%;
+}
+
+.dots{
+    text-align: center;
+}
+
+.dots li{
+    display: inline-blocK;
+}
+.dots li:not(:first-child){
+    padding-left:10px
+}
